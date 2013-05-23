@@ -22,8 +22,8 @@
     
     NSLog(@"Testing, testing, 1, 2, 3!");
     
-    
     NSLog(@"Testing, testing, ... it's all good!");
+
 }
 
 - (void)didReceiveMemoryWarning
