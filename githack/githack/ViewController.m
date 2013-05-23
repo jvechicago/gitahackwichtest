@@ -21,6 +21,8 @@
     
     
     NSLog(@"Testing, testing, 1, 2, 3!");
+    
+    NSLog(@"There's trouble brewing!");
 }
 
 - (void)didReceiveMemoryWarning
